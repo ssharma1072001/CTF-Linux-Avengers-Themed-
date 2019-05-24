@@ -9,6 +9,7 @@ Each team is allowed only one answer.
 | Avenger | Team Name |
 | ------- | --------- |
 | Rogers  | vishwas121|
+| SpiderMan| ankuryd  |
 | IronMan | dryairship|
 | NickFury| Ritiks007 |
 | Groot   | Apoorv    |
