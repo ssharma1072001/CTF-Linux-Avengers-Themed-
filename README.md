@@ -10,6 +10,8 @@ Each team is allowed only one answer.
 | ------- | --------- |
 | Rogers  | vishwas121|
 | SpiderMan| ankuryd  |
+| Kang    | sartkap   |
 | IronMan | dryairship|
 | NickFury| Ritiks007 |
+| AncientOne| Nabh	  |
 | Groot   | Apoorv    |
